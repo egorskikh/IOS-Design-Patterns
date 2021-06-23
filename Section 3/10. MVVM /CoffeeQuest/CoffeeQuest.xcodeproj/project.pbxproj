@@ -127,9 +127,9 @@
 		C35933832023BF5700D85500 /* CoffeeQuest */ = {
 			isa = PBXGroup;
 			children = (
+				4252EAA82023DFFB00847430 /* Resources */,
 				4252EAA42023DFE500847430 /* AppDelegate */,
 				4252EAA52023DFE800847430 /* Controllers */,
-				4252EAA82023DFFB00847430 /* Resources */,
 				4252EAA62023DFEE00847430 /* ViewModels */,
 				4252EAA72023DFF400847430 /* Views */,
 			);
