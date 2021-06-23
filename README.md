@@ -4,15 +4,15 @@
 - Chapter 1: What are Design Patterns? 
 - Chapter 2: How to Read a Class Diagram
 > Section II: Fundamental Design Patterns
-- Chapter 3: Model-View-Controller Pattern
-- Chapter 4: Delegation Pattern 
+- Chapter 3: [Model-View-Controller Pattern](https://github.com/egorskikh/IOS-Design-Patterns#model-view-controller-pattern)
+- Chapter 4: [Delegation Pattern](https://github.com/egorskikh/IOS-Design-Patterns#delegation-pattern)
 - Chapter 5: Strategy Pattern
 - Chapter 6: Singleton Pattern
 - Chapter 7: Memento Pattern
 - Chapter 8: Observer Pattern
 - Chapter 9: Builder Pattern
 > Section III: Intermediate Design Patterns
-- Chapter 10: Model-View-ViewModel Pattern
+- Chapter 10: [Model-View-ViewModel Pattern](https://github.com/egorskikh/IOS-Design-Patterns#model-view-viewmodel-pattern)
 - Chapter 11: Factory Pattern
 - Chapter 12: Adapter Pattern
 - Chapter 13: Iterator Pattern
